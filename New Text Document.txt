@@ -1,0 +1,7 @@
+making an emergency responce system capable of giving instruction to first responders 
+it will include:
+1} an easy to use interferance
+2} an emergency button to contact nearest hospital via email
+3} voice assisted ai 
+4} an accesible compendium of all basic first aid 
+5} web scraping functionality
