@@ -1,5 +1,3 @@
-Certainly! Here's a suggested README file for your EIR (Emergency Imperative Response) project:
-
 ---
 
 # EIR (Emergency Imperative Response)
