@@ -1,7 +1,5 @@
----
-
 # EIR (Emergency Imperative Response)
-
+---
 ## Overview
 
 EIR is a project developed by Shashank Singh and Pranay Tiwari to serve as a virtual paramedic during emergencies. The program allows users to send a short video and live location to nearby hospitals and police stations via email. Additionally, an AI system provides step-by-step guidance on life-saving measures.
