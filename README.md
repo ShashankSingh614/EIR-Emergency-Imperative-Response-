@@ -2,7 +2,7 @@
 
 ## Overview
 
-EIR is a project developed by Shashank Singh and Pranay Tiwari to serve as a virtual paramedic during emergencies. The program allows users to send a short video and live location to nearby hospitals and police stations via email. Additionally, an AI system provides step-by-step guidance on life-saving measures.
+EIR serves as a virtual paramedic in emergencies, allowing users to send videos and live locations to nearby hospitals and police via email. The AI system provides step-by-step life-saving guidance.
 
 ## Features
 
